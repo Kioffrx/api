@@ -1,4 +1,4 @@
-const simulator = require("./simulator.service");
+const simulator = require("../simulator.service");
 const device = require("./device.service");
 
 const simulationEnabled =
